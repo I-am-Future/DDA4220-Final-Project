@@ -1,0 +1,55 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+*.pyc
+
+*/__pycache__
+
+*.log
+*.pth
+*.pt
+**/__pycache__/**
+.nfs*
+*.ipynb
+*.pyc
+.dumbo.json
+.DS_Store
+.*.swp
+*.pth
+**/__pycache__/**
+.ipynb_checkpoints/
+experiment-*
+*.tmp
+*.pkl
+not_tracked_dir/
+.vscode
