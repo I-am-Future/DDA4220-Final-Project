@@ -26,7 +26,7 @@ All of our experiment weights, training logging, testing logging are at [OneDriv
 
 ### 1.1 Data
 
-For more about the dataset information, please refer to the report.
+For more about the dataset information, please refer to our report.
 
 The data should be in the COCO format, so that we can benefit from the existing Dataset and evaluation tools. We provide the **code script** to convert the VOC dataset to the COCO format.
 
