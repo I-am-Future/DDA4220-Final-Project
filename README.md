@@ -8,7 +8,7 @@ By [Lai Wei](https://github.com/I-am-Future), [Huihan Yang](https://github.com/f
 
 + `Data-Preparation`: please refer to the Section 1.1 below.
 + `DETR`: the implementation of DETR we used from https://github.com/facebookresearch/detr.
-+ `Deformable-DETR`: the implementation of DETR we used from https://github.com/fundamentalvision/Deformable-DETR. We modified some of the files inside it for implementing strategies, result analysis...
++ `Deformable-DETR`: the implementation of Deformable-DETR we used from https://github.com/fundamentalvision/Deformable-DETR. We modified some of the files inside it for implementing strategies, result analysis...
 + `Post-Analysis`: includes the scripts we use for plotting.
 
 ### 0.2 OneDrive root
