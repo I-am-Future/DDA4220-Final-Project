@@ -1,6 +1,6 @@
 # README
 
-By [Lai Wei](https://github.com/I-am-Future), [Huihan Yang](https://github.com/foxintohumanbeing), [Rongxiao Qu](). DDA4220 Final Project, Spring 2023.
+By [Lai Wei](https://github.com/I-am-Future), [Huihan Yang](https://github.com/foxintohumanbeing), [Rongxiao Qu](https://github.com/rongxiaoqu). DDA4220 Final Project, Spring 2023.
 
 ## 0. File Structure
 
